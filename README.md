@@ -134,9 +134,9 @@ Ensure you have the following files:
 
 ## Files and Structure
 
-- `README.md` – Project overview and documentation  
-- `AtliQo Bank CreditCard Launch.ipynb` – Main analysis notebook  
-- `AtliQo Bank Credit Card Project.pdf` – Summary of findings and insights  
-- `config.env` – Environment file for secure database access  
-- `.gitignore` – Ensures sensitive files like `.env` are not committed to Git  
+- [README.md](README.md) – Project overview and documentation  
+- [AtliQo Bank CreditCard Launch.ipynb](AtliQo%20Bank%20CreditCard%20Launch.ipynb) – Main analysis notebook  
+- [AtliQo Bank Credit Card Project.pdf](AtliQo%20Bank%20Credit%20Card%20Project.pdf) – Summary of findings and insights  
+- [.gitignore](.gitignore) – Ensures sensitive files like `.env` are not committed to Git
+
 
